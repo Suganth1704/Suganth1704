@@ -36,7 +36,9 @@
   Mini RAG project to explore document chunking, text splitting, embeddings, and retrieval using LangChain and Streamlit.
   Link (https://rywxapmagaydbws5btnnuh.streamlit.app)
 
-- rag_app - https://github.com/Suganth1704/rag_app - (Currently Working)<br>
+- rag_app - (Currently Working)
+  Backend - https://github.com/Suganth1704/rag_app_backend<br> --> Libs used: LangChain, LangGraph, Groq, ChromaDB, FastAPI
+  Frontend - https://github.com/Suganth1704/rag_app_frontend<br> --> Streamlit
 
   RAG application built to apply core RAG concepts from rag_qa, including document ingestion, chunking, embeddings, and retrieval. Uses FastAPI for backend APIs, ChromaDB for vector storage, and Groq LLM     (Llama-3.3-70B-Versatile).
   ### Key Learnings
